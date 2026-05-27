@@ -3,8 +3,8 @@ import Navbar from "@/components/Navbar";
 import "./CVPage.css";
 
 const cvPages = [
-    "/public/Emil Bergqvist - CV-2026_page-0001.jpg",
-    "/public/Emil Bergqvist - CV-2026_page-0002.jpg",
+    "/Emil Bergqvist - CV-2026_page-0001.jpg",
+    "/Emil Bergqvist - CV-2026_page-0002.jpg",
 ];
 
 const contactLinks = [
